@@ -1,1 +1,1 @@
-(https://github.com/itismuzak/picoCTF-2022-writeups/First%20Find/main/FS7H121WAAAO6yS.jpg?raw=true)
+![alt text](https://github.com/itismuzak/picoCTF-2022-writeups/blob/main/First%20Find/FS7H121WAAAO6yS.jpg)
