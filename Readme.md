@@ -1,1 +1,1 @@
-![alt text](https://github.com/itismuzak/picoCTF-2022-writeups/blob/main/Welcome!.jpg)
+![alt text](https://github.com/muzakonthecode/picoCTF-2022-writeups/blob/main/pic.jpg)
